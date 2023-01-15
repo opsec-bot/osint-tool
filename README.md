@@ -6,6 +6,6 @@ reason of making this was for easy installation and combining the tools together
 
 Requirements :
 
-golang
+golang - https://go.dev/dl/
 
-python
+python - https://www.python.org/downloads/
